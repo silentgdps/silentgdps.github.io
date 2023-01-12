@@ -1,0 +1,19 @@
+{
+    "id": 61,
+    "name": "Red Level",
+    "author": "SnusTeam",
+    "creators": ["Shocked","Vladi4ok","DrEEmple"],
+    "verifier": "Vladi4ok",
+    "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "showcase": "https://youtu.be/dQw4w9WgXcQ",
+    "percentToQualify": 56,
+    "password": "свободное копирование",
+    "records": [
+        {
+            "user": "Example",
+            "link": "https://youtu.be/dQw4w9WgXcQ",
+            "percent": 96,
+            "hz": 240
+        }
+    ]
+}
